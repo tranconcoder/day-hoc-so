@@ -1,1 +1,0 @@
-# day-hoc-so
